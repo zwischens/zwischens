@@ -1,64 +1,98 @@
-<h1 align="center">. . . the nameless monster . . .</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=666666&center=true&vCenter=true&width=435&lines=Transmitting...;Seeking+the+Truth;Fragmented+Reality;Inside+the+Void" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&pause=1500&color=999999&center=true&vCenter=true&width=435&lines=sys.exit(0);net.listen(8080);fragments_of_data;lost_in_structure" alt="Typing SVG" />
 </p>
 
----
-
-### 👁️ Subject Profile
-
-I am a **Python scripter** and **penetration tester** drifting through the architecture of digital networks. I dismantle systems to understand their nature, lost between the cold logic of code and the chaos of human error.
-
-* **Observation:** Web and network vulnerabilities.
-* **Method:** Automation of shadows with Python.
-* **Foundation:** Minimalist **Arch Linux** environments (the structure is everything).
-* **Inspiration:** The industrial silence of *BLAME!* and the psychological depths of *Monster*.
+<h2 align="center">system_state: active</h2>
 
 ---
 
-### 🧰 Tools of the Trade
+### ▒ General Overview
+
+Researching the intersection of **cybersecurity** and **minimalist automation**. I build small, functional things in Python and explore how systems fail under pressure. Prefers silence, Arch Linux, and the cold architecture of megastructures.
+
+* **Current focus:** Network reconnaissance & Web-security.
+* **Philosophy:** Less is more. Speed is secondary to stability.
+* **Aesthetics:** Brutalism, monochrome, `0.1` opacity.
+
+---
+
+### ▒ Technical Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="python" /><br />
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=arch" width="40" height="40" alt="arch" /><br />
+      <sub>Arch</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="bash" /><br />
+      <sub>Bash</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" /><br />
+      <sub>Linux</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=burpsuite" width="40" height="40" alt="burp" /><br />
+      <sub>Burp</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git" /><br />
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=obsidian" width="40" height="40" alt="obsidian" /><br />
+      <sub>Obsidian</sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="vscode" /><br />
+      <sub>VS Code</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ▒ Environment
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,arch,vscode,obsidian&theme=dark" />
-</p>
-
----
-
-### 📷 The Structure (Base 01)
-
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/1c4be32d-c44c-4d21-baa1-0630ff9ebb0a" style="filter: grayscale(80%) contrast(120%);" />
+  <img width="100%" alt="desktop" src="https://github.com/user-attachments/assets/1c4be32d-c44c-4d21-baa1-0630ff9ebb0a" />
   <br>
-  <em>Hyprland / Void-centric aesthetic / 4-end dots observer</em>
+  <code>Arch Linux / Hyprland / Minimalist layout / 4-end dots</code>
 </p>
 
 ---
 
-### 🌑 Operations
+### ▒ Log_files
 
-* **Scripts:** Writing tools that whisper in the background of the OS.
-* **Offensive:** Learning the art of breaking the silence (Ethical Hacking).
-* **Environments:** Constructing digital labyrinths on Linux.
-* **Trials:** Currently active on **HTB** and **TryHackMe**.
+* **Automation:** Developing lightweight scripts for local network monitoring.
+* **Pentest:** Solving labs on HTB and TryHackMe (learning the "why" before the "how").
+* **Nix:** Refining a dotfiles repository that I'll probably never finish.
+* **Interests:** Low-level logic, manga (BLAME!, Biomega, Monster), and noise music.
 
 ---
 
-### 🗨️ Signal Reception
+### ▒ External Connections
 
 <p align="center">
-  <code>ID: claim_go</code>
+  <kbd>Discord: claim_go</kbd>
 </p>
 
 ---
 
-### 🧩 The Truth
+### ▒ Fragment
 
-> “Inside of me, there's a monster that has grown so large. It's about to burst...”
-> — *Johan Liebert*
+> "The sky was the color of a television, tuned to a dead channel."
+> — *Neuromancer*
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&color=333333&style=flat-square&label=EYES+ON+ME">
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=<your-username>&color=666666&style=flat-square&label=TRAFFIC" />
 </p>
