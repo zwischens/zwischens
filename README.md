@@ -88,8 +88,8 @@ Researching the intersection of **cybersecurity** and **minimalist automation**.
 
 ### ▒ Fragment
 
-> "The sky was the color of a television, tuned to a dead channel."
-> — *Neuromancer*
+> "Death is the only thing in which all people are equal."
+> — *Johan*
 
 ---
 
