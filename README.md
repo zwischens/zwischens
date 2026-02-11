@@ -81,7 +81,7 @@ Researching the intersection of **cybersecurity** and **minimalist automation**.
 ### ▒ External Connections
 
 <p align="center">
-  <kbd>Discord: claim_go</kbd>
+  <kbd>Discord: zwischens</kbd>
 </p>
 
 ---
