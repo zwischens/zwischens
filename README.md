@@ -1,60 +1,64 @@
-<h1 align="center">.</h1>
+<h1 align="center">. . . the nameless monster . . .</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=555555&center=true&vCenter=true&width=435&lines=code;network;arch;..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=666666&center=true&vCenter=true&width=435&lines=Transmitting...;Seeking+the+Truth;Fragmented+Reality;Inside+the+Void" alt="Typing SVG" />
 </p>
 
 ---
 
-### .
+### 👁️ Subject Profile
 
-Пишу python, ломаю и чиню сети.  
-Сижу на Arch + Hyprland.  
-Смотрю, как всё устроено внутри.
+I am a **Python scripter** and **penetration tester** drifting through the architecture of digital networks. I dismantle systems to understand their nature, lost between the cold logic of code and the chaos of human error.
 
-Занимаюсь:
-- web / network testing
-- автоматизация через python
-- минимальные и быстрые окружения
-- BLAME!
+* **Observation:** Web and network vulnerabilities.
+* **Method:** Automation of shadows with Python.
+* **Foundation:** Minimalist **Arch Linux** environments (the structure is everything).
+* **Inspiration:** The industrial silence of *BLAME!* and the psychological depths of *Monster*.
 
 ---
 
-### .
+### 🧰 Tools of the Trade
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,arch" /><br/>
-  <img src="https://skillicons.dev/icons?i=burpsuite,vscode,obsidian" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,arch,vscode,obsidian&theme=dark" />
 </p>
 
 ---
 
-### .
+### 📷 The Structure (Base 01)
 
 <p align="center">
-  <img width="1921" height="1081" alt="image" src="https://github.com/user-attachments/assets/1c4be32d-c44c-4d21-baa1-0630ff9ebb0a" />
+  <img width="100%" src="https://github.com/user-attachments/assets/1c4be32d-c44c-4d21-baa1-0630ff9ebb0a" style="filter: grayscale(80%) contrast(120%);" />
   <br>
-  <em>arch · hyprland · 4-end dots</em>
+  <em>Hyprland / Void-centric aesthetic / 4-end dots observer</em>
 </p>
 
 ---
 
-### .
+### 🌑 Operations
 
-- маленькие инструменты на python  
-- tryhackme, hackthebox, overthewire  
-- настройка систем под задачу
+* **Scripts:** Writing tools that whisper in the background of the OS.
+* **Offensive:** Learning the art of breaking the silence (Ethical Hacking).
+* **Environments:** Constructing digital labyrinths on Linux.
+* **Trials:** Currently active on **HTB** and **TryHackMe**.
 
 ---
 
-### .
+### 🗨️ Signal Reception
 
 <p align="center">
-  discord — claim_go
+  <code>ID: claim_go</code>
 </p>
 
 ---
 
+### 🧩 The Truth
+
+> “Inside of me, there's a monster that has grown so large. It's about to burst...”
+> — *Johan Liebert*
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<your-username>&color=333333&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=<your-username>&color=333333&style=flat-square&label=EYES+ON+ME">
 </p>
